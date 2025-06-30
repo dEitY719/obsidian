@@ -11,10 +11,14 @@
             "id": "ddb14982e8925eb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-Project/Idea/Service 02.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Service 02"
             }
           }
         ]
@@ -166,6 +170,9 @@
   },
   "active": "ddb14982e8925eb8",
   "lastOpenFiles": [
+    "0-Project/Idea/Service 01.md",
+    "0-Project/Idea/Service 02.md",
+    "0-Project/Idea",
     "2-Resource/AI - image/Napkin.ai/Ex2 - MCP.md",
     "2-Resource/AI - image/miricanvas/output/MCP 개념과 활용.pptx",
     "2-Resource/AI - image/miricanvas/output/MCP 개념과 활용.pdf",
@@ -185,7 +192,6 @@
     "2-Resource/AI - image/Recraft.ai/output/test-vitals-logo-2.png",
     "2-Resource/AI - image/Recraft.ai/output/test-vitals-logo-3.png",
     "2-Resource/AI - image/Recraft.ai/output/test-vitals-logo-1.png",
-    "2-Resource/AI - image/Recraft.ai/output",
     "2-Resource/AI - image/Recraft.ai/Pasted image 20250630111343.png",
     "2-Resource/AI - image/Recraft.ai/Pasted image 20250630111504.png",
     "2-Resource/AI - image/Recraft.ai/Pasted image 20250630111941.png"
