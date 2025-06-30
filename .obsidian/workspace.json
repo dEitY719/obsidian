@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "0279270c99dcbc08",
+    "type": "split",
+    "children": [
+      {
+        "id": "52655d83b1c44a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cfdbbbebb1feb3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Resource/AI - image/Recraft.ai/Recraft.ai - AI 이미지 + 로고 + 디자인 요소.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recraft.ai - AI 이미지 + 로고 + 디자인 요소"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6deac0397478b7bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8508bde050920653",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0951ddc9cd42c284",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "336e8c8f98055b7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "e552c324a0f0b576",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28ecd4207f3b518f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de075b0bb6f1adf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4cb6e79d8cd3368",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2-Resource/AI - image/Recraft.ai/Recraft.ai - AI 이미지 + 로고 + 디자인 요소.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Recraft.ai - AI 이미지 + 로고 + 디자인 요소 의 백링크"
+            }
+          },
+          {
+            "id": "cf7de492a22ffc0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2-Resource/AI - image/Recraft.ai/Recraft.ai - AI 이미지 + 로고 + 디자인 요소.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Recraft.ai - AI 이미지 + 로고 + 디자인 요소 의 나가는 링크"
+            }
+          },
+          {
+            "id": "e70255161671c320",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "f645ea551387c0f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2-Resource/AI - image/Recraft.ai/Recraft.ai - AI 이미지 + 로고 + 디자인 요소.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Recraft.ai - AI 이미지 + 로고 + 디자인 요소 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "6cfdbbbebb1feb3b",
+  "lastOpenFiles": [
+    "2-Resource/AI - image/Recraft.ai/output/test-vitals-logo-2.png",
+    "2-Resource/AI - image/Recraft.ai/output/test-vitals-logo-3.png",
+    "2-Resource/AI - image/Recraft.ai/output/test-vitals-logo-1.png",
+    "2-Resource/AI - image/Recraft.ai/output",
+    "2-Resource/AI - image/Recraft.ai/새 폴더",
+    "2-Resource/AI - image/Recraft.ai/Pasted image 20250630111343.png",
+    "2-Resource/AI - image/Recraft.ai/Pasted image 20250630111504.png",
+    "2-Resource/AI - image/Recraft.ai/Recraft.ai - AI 이미지 + 로고 + 디자인 요소.md",
+    "2-Resource/AI - image/Recraft.ai",
+    "2-Resource/AI - image",
+    "무제",
+    "3-Archive",
+    "2-Resource",
+    "1-Area",
+    "0-Project",
+    "2-Resource/AI - image/Recraft.ai/Pasted image 20250630111941.png"
+  ]
+}

@@ -7,8 +7,8 @@ build-backend = "setuptools.build_meta"
 [project]
 requires-python = ">=3.10"
 version = "0.1.0"
-name = "python-project-template"
-description = "A comprehensive project for learning and development."
+name = "obsidian"
+description = "A centralized repository for managing all notes, documents, and knowledge resources maintained with Obsidian. Serves as the single source of truth for personal knowledge management, research, and idea organization."
 authors = [{ name = "deitey719", email = "deity719@github.com" }]
 dependencies = ["pydantic", "PyYAML"]
 
@@ -42,7 +42,7 @@ py-modules = ["ex_module"] # TODO: 루트의 .py 파일 이름들을 여기에 �
 
 [tool.setuptools.packages.find]
 # src 디렉토리 내에서만 패키지를 찾도록 설정
-where = ["src"]
+where = ["0-Project", "1-Area", "2-Resource", "3-Archive"]
 exclude = ["asset*", "config*", "tests*"] # 패키지로 인식하고 싶지 않은 디렉토리들을 명시적으로 제외 (*를 붙여 하위 디렉토리 전체를 제외)
 
 
