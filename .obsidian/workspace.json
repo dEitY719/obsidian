@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f5fbcc44f57735",
+        "id": "bee3f48c9f72466f",
         "type": "tabs",
         "children": [
           {
-            "id": "fcbe661b17ae6607",
+            "id": "ddb14982e8925eb8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,9 +164,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fcbe661b17ae6607",
+  "active": "ddb14982e8925eb8",
   "lastOpenFiles": [
     "2-Resource/AI - image/Napkin.ai/Ex2 - MCP.md",
+    "2-Resource/AI - image/miricanvas/output/MCP 개념과 활용.pptx",
+    "2-Resource/AI - image/miricanvas/output/MCP 개념과 활용.pdf",
+    "2-Resource/AI - image/miricanvas/output",
+    "2-Resource/AI - image/miricanvas/새 폴더",
+    "2-Resource/AI - image/miricanvas/miri-Canvas.md",
+    "Pasted image 20250630133256.png",
+    "2-Resource/AI - image/miricanvas",
     "2-Resource/AI - image/Napkin.ai/Ex1 - 단위 테스트.md",
     "2-Resource/AI - image/Napkin.ai/Napkin.ai - get visuals from your text.md",
     "2-Resource/AI - image/Recraft.ai/Recraft.ai - AI 이미지 + 로고 + 디자인 요소.md",
@@ -179,13 +186,8 @@
     "2-Resource/AI - image/Recraft.ai/output/test-vitals-logo-3.png",
     "2-Resource/AI - image/Recraft.ai/output/test-vitals-logo-1.png",
     "2-Resource/AI - image/Recraft.ai/output",
-    "2-Resource/AI - image/Recraft.ai/새 폴더",
     "2-Resource/AI - image/Recraft.ai/Pasted image 20250630111343.png",
     "2-Resource/AI - image/Recraft.ai/Pasted image 20250630111504.png",
-    "2-Resource/AI - image/Recraft.ai",
-    "2-Resource/AI - image",
-    "무제",
-    "3-Archive",
     "2-Resource/AI - image/Recraft.ai/Pasted image 20250630111941.png"
   ]
 }
